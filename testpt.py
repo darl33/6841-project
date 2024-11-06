@@ -74,7 +74,7 @@ model = model.to(device)
 criterion = nn.BCEWithLogitsLoss()
 optimizer = optim.Adam(model.fc.parameters(), lr=1e-4)
 
-num_epochs = 1000
+num_epochs = 10
 
 for epoch in range(num_epochs):
     model.train()
