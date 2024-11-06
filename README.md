@@ -8,3 +8,5 @@ https://www.youtube.com/playlist?list=PLJyDfT1Q4_VksbI_VerTFcqz6Ig6EFENB
 Various Reddit Sources
 
 yt-dlp and Pytorch
+
+***MAY HAVE MEMORY ISSUES, LARGE RAM RECOMMENDED***
