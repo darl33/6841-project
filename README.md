@@ -10,5 +10,6 @@ Various Reddit Sources
 yt-dlp and Pytorch
 
 ***MAY HAVE MEMORY ISSUES, LARGE RAM RECOMMENDED***
+
 testpt_v3 is a lighter version of the model training
 
